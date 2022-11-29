@@ -1,3 +1,11 @@
+##  66小数据分享：
+
+
+## 线上故障如何快速排查？来看这套技巧大全,有了这一篇文章排查线上故障问题就容易多了
+https://mp.weixin.qq.com/s/tG1kOGtAJzHc37XGlsfAPQ
+https://developer.aliyun.com/article/778128
+
+
 ## 我的社交资料
 - B站UP账号：[后端研发Marion](https://space.bilibili.com/269097482)
 - 今日头条账号：[后端研发Marion](https://www.toutiao.com/c/user/token/MS4wLjABAAAAChrLQhHvIVE31-TLHrkth8_9uQLhosRHQmKC5jkat70/)
